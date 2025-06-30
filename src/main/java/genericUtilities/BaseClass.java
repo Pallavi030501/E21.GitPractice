@@ -51,7 +51,7 @@ public class BaseClass
 //	   }
 //	   else if(pValue.equals("firefox"))
 //	   {
-//		  // WebDriverManager.firefoxdriver().setup();
+//		   WebDriverManager.firefoxdriver().setup();
 		   driver=new FirefoxDriver();
 //	   }
 //	   else 
